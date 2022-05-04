@@ -1,0 +1,9 @@
+Diplomado: Machine Learning with Python
+-----------------------------------------------------------------------------------------
+
+Requerimientos: 80% asistencia
+Trabajos (Ejercicios): 60% de la calificacion
+Proyectos (Practicas con mayor rigor): 40% de la calificacion
+
+Calificacion minima aprobatoria: 8
+-----------------------------------------------------------------------------------------
