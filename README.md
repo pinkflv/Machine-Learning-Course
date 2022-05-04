@@ -1,9 +1,17 @@
 # Machine-Learning-Course
+<<<<<<< HEAD
 The purpose of this repository is the storage of my Machine Learning Notes<br>
 <br>
 1 Python e introduccion al machine learning<br>
 2 Python estadistico y cientifico<br>
 3 Pre procesamiento e introduccion a la visualizacion de datos
+=======
+The purpose of this repository is the storage of my Machine Learning Notes<br><br>
+
+1 Python e introduccion al machine learning<br>
+2 Python estadistico y cientifico<br>
+3 Pre procesamiento e introduccion a la visualizacion de datos<br>
+>>>>>>> f0258a1b434a863689f476fae3dab834768c2650
 4 Algoritmos de Regresion<br>
 5 Algoritmos de Clasificacion<br>
 6 Evaluacion de modelos<br>
