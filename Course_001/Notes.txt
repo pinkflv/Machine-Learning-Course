@@ -7,3 +7,16 @@ Proyectos (Practicas con mayor rigor): 40% de la calificacion
 
 Calificacion minima aprobatoria: 8
 -----------------------------------------------------------------------------------------
+
+La inteligencia artificial es una serie de formulas matematicas que crean estadisticas, las 
+cuales no tienen nada de inteligente, en el sentido de lo que podemos considerar inteligente
+para los seres humanos.
+
+Esto lo podemos dividir en 2 partes:
+    - Machine learning: Se basa en el uso de la capacidad estadistica para dotar a las maquinas
+    con la facultad de aprender.
+    - Deep learning: se trata de algoritmos capaces de megorar la forma autonoma de 
+    modelizaciones como las redes neuronales inspiradas en el funcionamiento del cerebro humano.
+
+Podemos afirmar que la inteligencia artificial que podemos imaginar como humana no existe, ya que 
+un humano como tal no necesita entrenar durante horas el reconocimiento de una imagen.
