@@ -1,0 +1,5 @@
+- Al entrar a Anaconda necesitaras crear un nuevo enviornment,
+asignandole el nombre y la version de python que usaras
+- instalar Jupyter notebook verificando que estemos en el
+enviornment que recien creamos (ademas de powershell prompt)
+- Comienza a codear!
