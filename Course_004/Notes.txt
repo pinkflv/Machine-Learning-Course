@@ -1,0 +1,8 @@
+Librerias "cientificas"
+
+Las librerias que podriamos poner bajo esta etiqueta serian:
+    - numpy
+    - pandas
+    - scipy
+    - matplotlib
+

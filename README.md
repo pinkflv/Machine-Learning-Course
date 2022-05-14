@@ -13,3 +13,5 @@ The purpose of this repository is the storage of my Machine Learning Notes<br>
 <br>
 Requerimientos:<br>
  - Instalar: https://www.anaconda.com/
+ - En el powershell instalar
+    - numpy
