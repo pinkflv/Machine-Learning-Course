@@ -15,3 +15,4 @@ Requerimientos:<br>
  - Instalar: https://www.anaconda.com/
  - En el powershell instalar
     - numpy
+    - matplotlib (https://matplotlib.org/stable/users/installing/index.html)
