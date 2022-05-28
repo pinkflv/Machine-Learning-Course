@@ -16,3 +16,4 @@ Requerimientos:<br>
  - En el powershell instalar
     - numpy
     - matplotlib (https://matplotlib.org/stable/users/installing/index.html)
+    - pandas
