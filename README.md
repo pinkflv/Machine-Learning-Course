@@ -17,3 +17,4 @@ Requerimientos:<br>
     - numpy
     - matplotlib (https://matplotlib.org/stable/users/installing/index.html)
     - pandas
+    - seaborne
